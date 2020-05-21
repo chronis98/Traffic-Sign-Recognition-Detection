@@ -1,5 +1,5 @@
 # Traffic-Signs-Recognition-Detection
-Traffic Sign detection and recognition using the Tensorflow Object Detection Api
+Traffic Sign detection and recognition using the Tensorflow 
 # 1.Data
 For this project data was used from German Traffic Sign Dataset.More precisely the GTSB(German Traffic Sign Detection Benchmark) was used for traffic sign recognition on images with background environment and various light conditions and the GTSB(Traffic Sign Recognition Benchmark) was used on training traffic sign classes from cropped road sign images.<br />
 GTSB: 222 manually labeled images for test ,440 manually labeled images for training<br />
