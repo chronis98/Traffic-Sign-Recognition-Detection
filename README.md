@@ -3,7 +3,7 @@ Traffic Sign detection and recognition using the Tensorflow
 
 Part2(Android):[Android](https://github.com/chronis98/Traffic-Sign-Recognition-Detection)
 # 1.Data
-For this project data was used from German Traffic Sign Dataset.More precisely the GTSB(German Traffic Sign Detection Benchmark) was used for traffic sign recognition on images with background environment and various light conditions and the GTSB(Traffic Sign Recognition Benchmark) was used on training traffic sign classes from cropped road sign images.<br />
+For this project data was used from German Traffic Sign Dataset.More precisely the [GTSDB](http://benchmark.ini.rub.de/?section=gtsdb&subsection=dataset)(German Traffic Sign Detection Benchmark) was used for traffic sign recognition on images with background environment and various light conditions and the [GTSRB](http://benchmark.ini.rub.de/?section=gtsrb&subsection=dataset)(German Traffic Sign Detection Benchmark)(Traffic Sign Recognition Benchmark) was used on training traffic sign classes from cropped road sign images.<br />
 GTSB: 222 manually labeled images for test ,440 manually labeled images for training<br />
 GTSRB: 12630 annotated images for test, more than 50k images in total for training
 # 2.Implementation
